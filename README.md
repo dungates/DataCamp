@@ -2,9 +2,11 @@
 Learning Data Science from Datacamp Modules
 
 # Career Tracks Completed
-Git
+- Git
 
-R for Data Science
+- R for Data Science
 
 # Career Tracks in Progress
-Python for Data Science
+- Python for Data Science
+
+- Quantitative Analysis with R
