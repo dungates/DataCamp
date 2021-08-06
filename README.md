@@ -15,10 +15,11 @@ Learning Data Science from Datacamp Modules
 
 # Language Breakdown
 
-- [Tableau Courses] 📊
+- [Tableau Courses](Certificates/Tableau) 📊
 
-- [Python Courses] 🐍
+- [Python Courses](Certificates/Python) 🐍
 
-- [R Courses] ![](https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png = 80x80)
+- [R Courses](Certificates/R)  <img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png" alt="drawing" width="200"/>
+
 
 - [SQL Courses](Certificates/SQL) &#26C1;
