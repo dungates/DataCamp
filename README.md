@@ -19,7 +19,7 @@ Learning Data Science from Datacamp Modules
 
 - [Python Courses](Certificates/Python) 🐍
 
-- [R Courses](Certificates/R)  <img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png" alt="drawing" width="200"/>
+- [R Courses](Certificates/R)  <img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png" alt="drawing" width="30"/>
 
 
 - [SQL Courses](Certificates/SQL) &#26C1;
